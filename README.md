@@ -25,3 +25,6 @@
 **DL**
 - ML의 특화된 분야로써, 이미지나 텍스트 같은 거대한 데이터 세트를 사용하는 심층 신경망 훈련에 기반한다. 
 - **자동 공정**: 신경망을 선택하고 모델이 이미지 특징 추출을 자동으로 학습하게 한다.
+
+# Note
+You may want to run the codes with your own dataset, but if you need my dataset [contact me](https://hchoi256.github.io/).
