@@ -12,7 +12,7 @@
 #### 5-2) [YELP Reviews](https://github.com/hchoi256/machine-learning-development/blob/main/Project%207%20-%20Yelp%20Reviews%20Classification.ipynb)
 ### [PART 6: User Collaborative Filtering](https://github.com/hchoi256/machine-learning-development/blob/main/Project%208%20-%20Movie%20Recommender%20System.ipynb)
 
-## ML vs. DL vs. AI
+# ML vs. DL vs. AI
 ![image](https://user-images.githubusercontent.com/39285147/180034593-2f146be3-469f-4282-a2fd-cb0631316b58.png)
 
 **AI**
@@ -27,4 +27,6 @@
 - **자동 공정**: 신경망을 선택하고 모델이 이미지 특징 추출을 자동으로 학습하게 한다.
 
 # Note
-You may want to run the codes with your own dataset, but if you need my dataset [contact me](https://hchoi256.github.io/).
+You may want to run the codes with your own dataset, but if you need my dataset [contact me](https://hchoi256.github.io/)
+
+Referenced by *Dr. Ryan Ahmed*
